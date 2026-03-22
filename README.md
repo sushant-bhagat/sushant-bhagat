@@ -41,8 +41,9 @@ https://www.linkedin.com/in/sushant-bhagat-p1/
 
 ### 📬 Connect with Me
 LinkedIn:- https://www.linkedin.com/in/sushant-bhagat-p1/
+
 Email:- sushantb057@gmail.com
 ---
 
-> 🇯🇵 *Actively seeking DevOps & Cloud Engineering roles in Japan, Singapore, and UAE*
+> *Actively seeking DevOps & Cloud Engineering roles in Japan, Singapore, and UAE*
 > 🌏 *Open to relocation | Visa sponsorship required*
