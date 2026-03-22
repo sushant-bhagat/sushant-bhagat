@@ -34,7 +34,7 @@ https://github.com/users/sushant-bhagat/achievements/quickdraw
 ---
 
 ### 📊 GitHub Stats
-https://github-readme-stats.vercel.app/api?username=github.com/sushant-bhagat)&show_icons=true&theme=dracula
+https://github.com/sushant-bhagat-readme-stats.vercel.app/api?username=sushant-bhagat&show_icons=true&theme=dracula
 
 ---
 
