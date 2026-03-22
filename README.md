@@ -7,7 +7,6 @@
 ### 🛠️ My Tech Stack
 https://github.com/users/sushant-bhagat/achievements/quickdraw
 
-
 ---
 
 ### 🚀 Featured Projects
@@ -45,6 +44,7 @@ https://github.com/users/sushant-bhagat/achievements/quickdraw
 
 ### 📬 Connect with Me
 LinkedIn:- https://www.linkedin.com/in/sushant-bhagat-p1/
+
 Email:- sushantb057@gmail.com
 
 ---
