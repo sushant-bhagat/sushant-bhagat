@@ -16,14 +16,15 @@ https://github.com/users/sushant-bhagat/achievements/quickdraw
 > Built a fully serverless chatbot using **Amazon Lex**, **AWS Lambda**, **EC2**, and **S3**
 > with IAM least-privilege security throughout.
 
-🔗 https://github.com/sushant-bhagat/aws-serverless-chatbot.git
+🔗 [View Project](https://github.com/sushant-bhagat/aws-serverless-chatbot)
 
 ---
 
 #### 🖥️ LVM Storage Management on Linux
 > Configured **LVM** on VMware-hosted Ubuntu for flexible,
 > zero-downtime storage management — automated with Bash scripts.
-🔗 https://github.com/sushant-bhagat/lvm-storage-linux.git
+🔗 [View Project](https://github.com/sushant-bhagat/lvm-storage-linux)
+
 ---
 
 ### 🏅 Certifications
@@ -34,7 +35,11 @@ https://github.com/users/sushant-bhagat/achievements/quickdraw
 ---
 
 ### 📊 GitHub Stats
-https://github.com/sushant-bhagat-readme-stats.vercel.app/api?username=sushant-bhagat&show_icons=true&theme=dracula
+![Sushant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sushant-bhagat&show_icons=true&theme=dracula)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sushant-bhagat&layout=compact&theme=dracula)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sushant-bhagat&theme=dracula)
 
 ---
 
