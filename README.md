@@ -23,7 +23,6 @@ https://github.com/users/sushant-bhagat/achievements/quickdraw
 #### 🖥️ LVM Storage Management on Linux
 > Configured **LVM** on VMware-hosted Ubuntu for flexible,
 > zero-downtime storage management — automated with Bash scripts.
-
 🔗 https://github.com/sushant-bhagat/lvm-storage-linux.git
 ---
 
@@ -41,8 +40,8 @@ https://www.linkedin.com/in/sushant-bhagat-p1/
 
 ### 📬 Connect with Me
 LinkedIn:- https://www.linkedin.com/in/sushant-bhagat-p1/
-
 Email:- sushantb057@gmail.com
+
 ---
 
 > *Actively seeking DevOps & Cloud Engineering roles in Japan, Singapore, and UAE*
