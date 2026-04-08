@@ -88,5 +88,5 @@ Email:- sushantb057@gmail.com
 
 ---
 
-> *Actively seeking DevOps & Cloud Engineering roles in Japan, Singapore, and UAE*
+> *Actively seeking DevOps & Cloud Engineering roles in Abroad and India*
 > 🌏 *Open to relocation | Visa sponsorship required*
