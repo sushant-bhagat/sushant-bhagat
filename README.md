@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Sushant Bhagat 👋</h1>
 <h3 align="center">DevOps & Cloud Engineer | Pune, India</h3>
-<h4 align="center"> Seeking DevOps roles in Abroad</h4>
+<h4 align="center"> Seeking DevOps roles in India & Abroad</h4>
 
 ---
 
